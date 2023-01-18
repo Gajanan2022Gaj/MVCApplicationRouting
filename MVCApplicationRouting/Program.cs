@@ -10,7 +10,9 @@ using Microsoft.Extensions.Logging;
 namespace MVCApplicationRouting
 {
     //comment added
-    public class Program
+
+    public class Program2
+
     {
         public static void Main(string[] args)
         {
